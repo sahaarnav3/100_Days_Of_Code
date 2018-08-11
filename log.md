@@ -371,3 +371,14 @@ Mozilla Developers Net is the best resource for all your problem.
 **Today's Progress**: Read some javascript related stuff online and practiced python basics
 
 **Thoughts:**: I am going to follow the routine I have made from Monday and get everything as it was during holidays.
+
+
+### Day 46: August 11, 2018
+#### :mortar_board: Problem Solving
+
+**Today's Progress**: Did the pset4 of CS50, solved whodunit in which I had to find out the murderer from the image given to me by changing the intensities of RGB and other one was resize in which I had to resize an image vertically and horizontally to make it bigger. I had to work will file handling in C and I was given a boilerplate for the same. Did non-stop 8 hrs coding and you can see the results in the picture below.
+
+![](https://pbs.twimg.com/media/DkWblV2XsAE_3cH.jpg)
+
+**Thoughts:**: I have touched CS50 course after 23 days now which made me kind of sad but after completing the problems I was happy again. Whodunit was a great problem for me and it taught me a lot about file handling in C. I can now say that I am a CSI (Computer Scientist Investigator :p)
+
