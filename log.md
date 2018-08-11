@@ -366,8 +366,8 @@ Mozilla Developers Net is the best resource for all your problem.
 
 
 ### Day 45: August 10, 2018
-#### :mortar_board: 
+#### :mortar_board: Reading and Practice
 
-**Today's Progress**:    
+**Today's Progress**: Read some javascript related stuff online and practiced python basics
 
-**Thoughts:**:
+**Thoughts:**: I am going to follow the routine I have made from Monday and get everything as it was during holidays.
