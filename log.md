@@ -382,3 +382,10 @@ Mozilla Developers Net is the best resource for all your problem.
 
 **Thoughts:**: I have touched CS50 course after 23 days now which made me kind of sad but after completing the problems I was happy again. Whodunit was a great problem for me and it taught me a lot about file handling in C. I can now say that I am a CSI (Computer Scientist Investigator :p)
 
+
+### Day 47: August 12, 2018
+#### :mortar_board: Relaxing
+
+**Today's Progress**: No coding today.
+
+**Thoughts:**: Spent this sunday with friends, getting ready to follow the routine from tomorrow and get back on my coding.
