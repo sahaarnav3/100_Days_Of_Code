@@ -389,3 +389,19 @@ Mozilla Developers Net is the best resource for all your problem.
 **Today's Progress**: No coding today.
 
 **Thoughts:**: Spent this sunday with friends, getting ready to follow the routine from tomorrow and get back on my coding.
+
+
+### Day 48: August 13, 2018
+#### :mortar_board: Learning
+
+**Today's Progress**: Watched javascipt basics videos on YouTube. Did some ES6 challenges on FCC
+
+**Thoughts:**: Things went well as per my routine. I hope everything goes the way I want it to go from now.
+
+
+### Day 49: August 14, 2018
+#### :mortar_board:
+
+**Today's Progress**:
+
+**Thoughts:**:
