@@ -399,9 +399,9 @@ Mozilla Developers Net is the best resource for all your problem.
 **Thoughts:**: Things went well as per my routine. I hope everything goes the way I want it to go from now.
 
 
-### Day 49: August 14, 2018
-#### :mortar_board:
+### Day 49-50: August 14-15, 2018
+#### :mortar_board: Problem Solving
 
-**Today's Progress**:
+**Today's Progress**: Been working on pset4 recover problem and thought I could get it in a single day. It took me a while to code before I understood the JPEGs part, but when I did the other day it was completed at once.
 
-**Thoughts:**:
+**Thoughts:**: Now I am completely familiar with the file handling part in C, which was a nightmare for me when I first studied it.
