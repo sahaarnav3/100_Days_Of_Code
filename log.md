@@ -405,3 +405,12 @@ Mozilla Developers Net is the best resource for all your problem.
 **Today's Progress**: Been working on pset4 recover problem and thought I could get it in a single day. It took me a while to code before I understood the JPEGs part, but when I did the other day it was completed at once.
 
 **Thoughts:**: Now I am completely familiar with the file handling part in C, which was a nightmare for me when I first studied it.
+
+
+### Day 51: August 16, 2018
+#### :mortar_board: Learning and solving problems
+
+**Today's Progress**: Enrolled in 3rd Course in coursera's python specialization by University Of Michigan, did a quiz and assignment on use of Regular Expressions in Python. 
+
+**Thoughts:**: RegEx is one of the most easy and powerful way to parse data from a haystack of it, but it can create ambiguous and difficult to read code.
+Here's a link to a cheat sheet to learn RegEx used in Python. [Link](http://www.py4e.com/lectures/Py4Inf-11-Regex-Guide.pdf)
