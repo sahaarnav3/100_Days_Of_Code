@@ -414,3 +414,11 @@ Mozilla Developers Net is the best resource for all your problem.
 
 **Thoughts:**: RegEx is one of the most easy and powerful way to parse data from a haystack of it, but it can create ambiguous and difficult to read code.
 Here's a link to a cheat sheet to learn RegEx used in Python. [Link](http://www.py4e.com/lectures/Py4Inf-11-Regex-Guide.pdf)
+
+
+### Day 52: August 17, 2018
+#### :mortar_board: Solving Programming Challenges
+
+**Today's Progress**: Completed ES6 and RegEx sections at FCC today and also 1 of the 5 projects in this certification named: Palindrome Checker.
+
+**Thoughts:**: Regex is similar in #javascript and #Python which has made it easier to learn. My code for the palindrome checker matched the advanced solution in the hints section for this project, and this made my day!!
