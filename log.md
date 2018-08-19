@@ -422,3 +422,11 @@ Here's a link to a cheat sheet to learn RegEx used in Python. [Link](http://www.
 **Today's Progress**: Completed ES6 and RegEx sections at FCC today and also 1 of the 5 projects in this certification named: Palindrome Checker.
 
 **Thoughts:**: Regex is similar in #javascript and #Python which has made it easier to learn. My code for the palindrome checker matched the advanced solution in the hints section for this project, and this made my day!!
+
+
+### Day 53: August 18, 2018
+#### :mortar_board: Revising
+
+**Today's Progress**: No coding today, just revised regex and thinking about where to use them.
+
+**Thoughts:**: I've been busy lately with freshers party in my college but I managed to squeeze time to study for a little bit.
