@@ -430,3 +430,20 @@ Here's a link to a cheat sheet to learn RegEx used in Python. [Link](http://www.
 **Today's Progress**: No coding today, just revised regex and thinking about where to use them.
 
 **Thoughts:**: I've been busy lately with freshers party in my college but I managed to squeeze time to study for a little bit.
+
+
+### Day 54: August 19, 2018
+#### :mortar_board: Learning
+
+**Today's Progress**: Watched week 4's lecture of @cs50 which was about data structures in C.
+Yet to come up with strategies to tackle pset 5 which is a spelling checker.
+
+**Thoughts:**: Pointers are turning out to be difficult for me, but I am going to read more to understand it in a better way.
+
+
+### Day 55: August 20, 2018
+#### :mortar_board: 
+
+**Today's Progress**:
+
+**Thoughts:**: 
