@@ -444,6 +444,6 @@ Yet to come up with strategies to tackle pset 5 which is a spelling checker.
 ### Day 55: August 20, 2018
 #### :mortar_board: 
 
-**Today's Progress**:
+**Today's Progress**: Completed debugging challenges and some of the basic data structure challenges on freeCodeCamp, Also did Roman Numeral Converter and Caesars Cipher projects. Later at night did coursera's python course assignments and quizzes too
 
-**Thoughts:**: 
+**Thoughts:**: I am learning to parse web data using python now and its pretty amazing and easy too whereas in freecodecamp I am just killing the JavaScript projects because of the experiences I gained from CS50x. Pretty damn productive day!! 
