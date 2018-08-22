@@ -442,8 +442,25 @@ Yet to come up with strategies to tackle pset 5 which is a spelling checker.
 
 
 ### Day 55: August 20, 2018
-#### :mortar_board: 
+#### :mortar_board: Solving Problems
 
 **Today's Progress**: Completed debugging challenges and some of the basic data structure challenges on freeCodeCamp, Also did Roman Numeral Converter and Caesars Cipher projects. Later at night did coursera's python course assignments and quizzes too
 
 **Thoughts:**: I am learning to parse web data using python now and its pretty amazing and easy too whereas in freecodecamp I am just killing the JavaScript projects because of the experiences I gained from CS50x. Pretty damn productive day!! 
+
+
+### Day 56: August 21, 2018
+#### :mortar_board: Solving and learning
+
+**Today's Progress**: Completed another project in javascript certification at FCC which was a telephone number validator, it challenged my knowledge of regex. Next I watched the short lectures of CS50 about different data structures in C and where to use them for maximum productivity.
+
+**Thoughts:**: I am now getting the uses of data structures in real life after seeing how they are implemented. They can make various tasks easy and storing and accessing data becomes great.
+
+
+### Day 57: August 22, 2018
+#### :mortar_board: 
+
+**Today's Progress**:
+
+
+**Thoughts:**: 
