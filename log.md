@@ -457,10 +457,15 @@ Yet to come up with strategies to tackle pset 5 which is a spelling checker.
 **Thoughts:**: I am now getting the uses of data structures in real life after seeing how they are implemented. They can make various tasks easy and storing and accessing data becomes great.
 
 
-### Day 57: August 22, 2018
-#### :mortar_board: 
+### Day 57-58: August 22-23, 2018
+#### :mortar_board: Solving problems
 
-**Today's Progress**:
+**Today's Progress**: Completed pset5: spell checker at CS50x. Used hash tables as my data structure but will try again with Tries to decrease lookup time.Check it out:
+Rank 185 / 1090 on Speller Big board
+![](https://pbs.twimg.com/media/DlTSREMXsAICDpD.jpg)
 
+Comparing my solution(left) with staff(right)
+![](https://pbs.twimg.com/media/DlTSTPUX0AIi7xt.jpg)
 
-**Thoughts:**: 
+**Thoughts:**: Now I am comfortable with data structures in C and fully understand their powers in programming
+
