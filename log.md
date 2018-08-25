@@ -469,3 +469,10 @@ Comparing my solution(left) with staff(right)
 
 **Thoughts:**: Now I am comfortable with data structures in C and fully understand their powers in programming
 
+
+### Day 56: August 24, 2018
+#### :mortar_board: Solving and learning
+
+**Today's Progress**: Did some challenges in basic data structure section at FCC
+
+**Thoughts:**: Hostel LAN was down so I didn't get much done today. 
