@@ -470,9 +470,26 @@ Comparing my solution(left) with staff(right)
 **Thoughts:**: Now I am comfortable with data structures in C and fully understand their powers in programming
 
 
-### Day 56: August 24, 2018
+### Day 59: August 24, 2018
 #### :mortar_board: Solving and learning
 
 **Today's Progress**: Did some challenges in basic data structure section at FCC
 
 **Thoughts:**: Hostel LAN was down so I didn't get much done today. 
+
+
+### Day 60: August 25, 2018
+#### :mortar_board: Solving and learning
+
+**Today's Progress**: Completed week 4 of University Of Michigan's python course on Coursera, did some web scraping assignments and a quiz using Beautiful Soup.
+![](https://pbs.twimg.com/media/Dld-BxXW4AE3ZKS.jpg)
+
+**Thoughts:**: Scraping the web is so easy and fun on python but make sure to check out the rules of the websites before doing so. 
+
+
+## Day 61: August 25, 2018
+#### :mortar_board: Solving and learning
+
+**Today's Progress**: 
+
+**Thoughts:**: 
