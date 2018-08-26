@@ -487,9 +487,16 @@ Comparing my solution(left) with staff(right)
 **Thoughts:**: Scraping the web is so easy and fun on python but make sure to check out the rules of the websites before doing so. 
 
 
-## Day 61: August 25, 2018
-#### :mortar_board: Solving and learning
+## Day 61: August 26, 2018
+#### :mortar_board: Relaxing
 
+**Today's Progress**: No coding today
+
+**Thoughts:**: Kept aside all tech gadgets after this busy week and slept like crazy! Watched some Youtube videos later in the evening about code quality and stuff. 
+
+
+## Day 62: August 27, 2018
+#### :mortar_board: 
 **Today's Progress**: 
 
-**Thoughts:**: 
+**Thoughts:**:
