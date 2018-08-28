@@ -500,3 +500,10 @@ Comparing my solution(left) with staff(right)
 **Today's Progress**: 
 
 **Thoughts:**:
+
+
+## Day 63: August 28, 2018
+#### :mortar_board: 
+**Today's Progress**: 
+
+**Thoughts:**:
