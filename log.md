@@ -496,14 +496,22 @@ Comparing my solution(left) with staff(right)
 
 
 ## Day 62: August 27, 2018
-#### :mortar_board: 
-**Today's Progress**: 
+#### :mortar_board: Health Issues
+**Today's Progress**: No coding today
 
-**Thoughts:**:
+**Thoughts:**: Caught the seasonal flu.
 
 
 ## Day 63: August 28, 2018
-#### :mortar_board: 
-**Today's Progress**: 
+#### :mortar_board: Health Issues
+**Today's Progress**: No coding today
 
-**Thoughts:**:
+**Thoughts:**: Bed rest for one more day
+
+
+## Day 64: August 29, 2018
+#### :mortar_board: Health Issues
+**Today's Progress**: No coding today
+
+**Thoughts:**: Getting better, will try to start again from tomorrow
+
