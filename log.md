@@ -497,6 +497,7 @@ Comparing my solution(left) with staff(right)
 
 ## Day 62: August 27, 2018
 #### :mortar_board: Health Issues
+
 **Today's Progress**: No coding today
 
 **Thoughts:**: Caught the seasonal flu.
@@ -504,6 +505,7 @@ Comparing my solution(left) with staff(right)
 
 ## Day 63: August 28, 2018
 #### :mortar_board: Health Issues
+
 **Today's Progress**: No coding today
 
 **Thoughts:**: Bed rest for one more day
@@ -511,7 +513,24 @@ Comparing my solution(left) with staff(right)
 
 ## Day 64: August 29, 2018
 #### :mortar_board: Health Issues
+
 **Today's Progress**: No coding today
 
 **Thoughts:**: Getting better, will try to start again from tomorrow
+
+
+## Day 65: August 30, 2018
+#### :mortar_board: Learning
+
+**Today's Progress**: Learnt about XML and ways to parse it in python. Did a quiz on that at coursera too.
+
+**Thoughts:**: Finally no fever now, perfectly fit to resume coding.
+
+
+## Day 66: August 31, 2018
+#### :mortar_board: 
+
+**Today's Progress**:
+
+**Thoughts:**: 
 
