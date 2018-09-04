@@ -527,10 +527,19 @@ Comparing my solution(left) with staff(right)
 **Thoughts:**: Finally no fever now, perfectly fit to resume coding.
 
 
-## Day 66: August 31, 2018
-#### :mortar_board: 
+## Day 66-67: August 31-Sept 1, 2018
+#### :mortar_board: Revising and socializing
 
-**Today's Progress**:
+**Today's Progress**: No coding at all
 
-**Thoughts:**: 
+**Thoughts:**: Just revisiting all the stuff again before I learn something new as I was out for many days.
+Also I did attend a local TEDx meet at my college which was fun and motivating.
+![](https://pbs.twimg.com/media/DmBSFYNU8AENDFs.jpg)
 
+
+## Day 68-70: August 31-Sept 1, 2018
+#### :mortar_board: Revising and solving
+
+**Today's Progress**: Some coding at last, did python assignment at coursera to parse data from XML link.
+
+**Thoughts:**: Getting back on the routine slowly after a horrible stressful week
