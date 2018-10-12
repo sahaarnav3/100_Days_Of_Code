@@ -6,6 +6,7 @@ This repository contains my log of my progress through round 1 of 100 Days of Co
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
+* [Contribution](Contribution.md)
 
 
 ## If you've decided to join:
