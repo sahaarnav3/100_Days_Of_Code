@@ -5,7 +5,7 @@ Contributions to my personal repo can be made using tweets from my twitter accou
 
 Here's the link to the profile: [Rohan Mehta](https://twitter.com/rhnmht30)
 
-##Steps
+## Steps
 
 1. Fork this repo: [100DaysOfCode_RohanMehta](https://github.com/rhnmht30/100_Days_Of_Code)
 2. Create a branch
